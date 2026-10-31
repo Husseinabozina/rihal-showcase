@@ -6,6 +6,8 @@ Two native Flutter apps connect pilgrims and campaign staff to a NestJS/PostgreS
 
 > Development milestone 0.1 — an operational slice, not a production launch.
 
+![Rihal native pilgrim home](assets/pilgrim-home.png)
+
 ## What works today
 
 - Pilgrim itinerary loaded from PostgreSQL through an authenticated REST API.
